@@ -1,0 +1,20 @@
+ Plan:
+ 
+ XML DOM:
+ 		creation et ecriture > done 
+ 		manipulation (lecture) > done
+ JAVA Reflexion:
+ 				Object creation
+ 				fields manipulation (properties)
+ Cas pratique:
+ 			generic class of CRUD operations + integration 
+ 			in 3 tiers architecture
+ 			
+ 			
+ 			
+ <note id="x4">
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+</note>
